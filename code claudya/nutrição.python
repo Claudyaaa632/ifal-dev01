@@ -1,0 +1,10 @@
+def inormaçoẽs_nutricionais(alimento):
+
+match alimento.lower():
+ case "maça":
+ return{
+    "calorias".52,
+    "proteínas".0.3, 
+    "carboidratos".1.1,
+    "Gordura".100.
+
